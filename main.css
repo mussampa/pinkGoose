@@ -1,0 +1,123 @@
+body {
+    background-color: #10151A;
+}
+ 
+.Pink {
+    color: white;
+    padding: 7px;
+}
+ 
+.Goose {
+    color: #FFB4D3;
+    padding: 7px;
+}
+ 
+.Title {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+}
+ 
+.Home {
+    color: white;
+    padding: 7px;
+}
+ 
+.Learn {
+    color: white;
+    padding: 7px;   
+}
+ 
+.About {
+    color: white;
+    padding: 7px;
+}
+ 
+.Contact {
+    color: white;
+    padding: 7px;
+}
+ 
+.Link {
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    font-family: Tahoma, sans-serif;
+    margin-top: 20px;
+}
+ 
+.Login {
+    color: white;
+    background: #243241;
+    height: 24px;
+    width: 60px;
+    font-size: 13px;
+    border-radius: 7px;
+    text-align: center;
+    padding-top: 5px;
+    font-family: Tahoma, sans-serif;
+    font-weight: lighter;
+    margin-top: 25px;
+}
+ 
+.Header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 150px;
+}
+ 
+.Text {
+    font-size: 40px;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    margin-top: 100px;
+    margin-left: 590px;
+}
+ 
+.Text1 {
+    font-size: 17px;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    margin-top: 15px;
+    margin-left: 540px;
+}
+ 
+.Text2 {
+    font-size: 17px;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    margin-top: 15px;
+    margin-left: 580px;
+}
+ 
+.GetStarted {
+    background-color: #CEAAFF;
+    color: #10151A;
+    box-shadow: 0 0 10px #f1d180;
+    width: 121px;
+    font-family: Tahoma, sans-serif;
+    height: 35px;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 7px;
+    margin-top: 25px;
+    margin-left: 660px;
+}
+ 
+ 
+.images {
+    margin-top: 110px;
+    margin-left: 660px;
+ 
+}
+ 
+.text3 {
+    font-size: 30px;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    margin-top: 50px;
+    margin-left: 550px;
+}
